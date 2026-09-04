@@ -1,0 +1,4 @@
+[core]
+    remote = myremoteloc
+['remote "myremoteloc"']
+    url = s3://rithikaa-dvc-demo
